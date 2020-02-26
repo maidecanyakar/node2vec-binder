@@ -1,0 +1,5 @@
+argparse
+numpy
+networkx
+node2vec
+gensim
